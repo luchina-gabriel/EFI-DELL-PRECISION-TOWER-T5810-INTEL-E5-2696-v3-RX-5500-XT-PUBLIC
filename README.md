@@ -1,5 +1,7 @@
 # DELL Precision Hackintosh - T5810, Intel Xeon E5 2696 V3, 128Gb RAM (8x16Gb) and RX 5500 XT
 
+![Hackintosh Overview](https://github.com/luchina-gabriel/EFI-DELL-PRECISION-TOWER-T5810-INTEL-E5-2696-v3-RX-5500-XT-PUBLIC/assets/23700365/11c4717f-8e01-428e-a511-742f6f1ee78a)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.4.1)
